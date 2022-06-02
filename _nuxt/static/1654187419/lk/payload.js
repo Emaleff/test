@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/lk", {data:[{}],fetch:{},mutations:[]});
